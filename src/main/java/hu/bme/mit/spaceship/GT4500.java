@@ -88,7 +88,7 @@ public class GT4500 implements SpaceShip {
         if(succ1 && succ2){
           firingSuccess = true;
         }
-
+          //lö hiba 2
         break;
     }
 
